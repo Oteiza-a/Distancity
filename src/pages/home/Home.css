@@ -1,0 +1,13 @@
+.home-page {
+  background: url("../../assets/images/waves-background.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+.home-page__form {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
